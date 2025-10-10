@@ -28,7 +28,7 @@ export const HeroSection: React.FC = () => {
             Expert Dredging & Construction Materials Provider
           </h1>
           <p className="text-gray-200 text-lg md:text-xl mb-8 max-w-2xl">
-            Aleze Global is a leading provider of dredging services, sharp sand,
+             Global is a leading provider of dredging services, sharp sand,
             granite, heavy equipment rentals, and waterfront leasing in Nigeria.
           </p>
           <div className="flex flex-wrap gap-4">

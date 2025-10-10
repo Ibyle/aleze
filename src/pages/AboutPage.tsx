@@ -26,17 +26,17 @@ export const AboutPage: React.FC = () => {
     image: 'https://randomuser.me/api/portraits/men/32jpg',
     description: 'With over 15 years of experience in the dredging and construction industry, Oluwaseun leads our team with vision and expertise.'
   }, {
-    name: 'Chioma Nwosu',
+    name: '',
     position: 'Operations Director',
     image: 'https://randomuser.me/api/portraits/women/44jpg',
     description: 'Chioma ensures the smooth operation of our dredging and material supply services with efficiency and attention to detail.'
   }, {
-    name: 'Emmanuel Okonkwo',
+    name: '',
     position: 'Technical Director',
     image: 'https://randomuser.me/api/portraits/men/67jpg',
     description: 'Emmanuel oversees the technical aspects of our operations, ensuring we employ the best practices and technologies.'
   }, {
-    name: 'Amina Ibrahim',
+    name: '',
     position: 'Business Development Manager',
     image: 'https://randomuser.me/api/portraits/women/68.pg',
     description: 'Amina leads our business development efforts, building strong relationships with clients and identifying new opportunities.'
