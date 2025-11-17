@@ -27,14 +27,14 @@ export const AboutPage: React.FC = () => {
     description: 'With over 15 years of experience in the dredging and construction industry, Oluwaseun leads our team with vision and expertise.'
   }, {
     name: '',
-    position: 'Operations Director',
+    position: 'Managing Director',
     image: 'https://randomuser.me/api/portraits/women/44jpg',
-    description: 'Chioma ensures the smooth operation of our dredging and material supply services with efficiency and attention to detail.'
+    description: 'Bose Eze ensures the smooth operation of our dredging and material supply services with efficiency and attention to detail.'
   }, {
     name: '',
-    position: 'Technical Director',
+    position: 'General Manager',
     image: 'https://randomuser.me/api/portraits/men/67jpg',
-    description: 'Emmanuel oversees the technical aspects of our operations, ensuring we employ the best practices and technologies.'
+    description: 'Raymond Wilson oversees the technical aspects of our operations, ensuring we employ the best practices and technologies.'
   }, {
     name: '',
     position: 'Business Development Manager',
