@@ -39,7 +39,7 @@ export const AboutPage: React.FC = () => {
     name: '',
     position: 'Business Development Manager',
     image: 'https://randomuser.me/api/portraits/women/68.pg',
-    description: 'Amina leads our business development efforts, building strong relationships with clients and identifying new opportunities.'
+    description: 'Onyeka leads our business development efforts, building strong relationships with clients and identifying new opportunities.'
   }];
   const milestones = [{
     year: '2010',
